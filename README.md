@@ -13,10 +13,8 @@ A lista inclui dashboards de saúde, educação, segurança pública e outros te
   [https://sistemas.saude.rj.gov.br/tabnetbd/dhx.exe?pni/pni\_cobertura.def](https://sistemas.saude.rj.gov.br/tabnetbd/dhx.exe?pni/pni_cobertura.def)
 
 * **Cobertura da Atenção Primária**
-
-  * Até 2020: [https://sistemas.saude.rj.gov.br/tabnetbd/dhx.exe?at\_primaria/at\_primaria\_cobesf.def](https://sistemas.saude.rj.gov.br/tabnetbd/dhx.exe?at_primaria/at_primaria_cobesf.def)
-  * A partir de 2021: [https://sistemas.saude.rj.gov.br/tabnetbd/dhx.exe?at\_primaria/at\_primaria\_cobaps.def](https://sistemas.saude.rj.gov.br/tabnetbd/dhx.exe?at_primaria/at_primaria_cobaps.def)
-
+   [https://sistemas.saude.rj.gov.br/tabnetbd/dhx.exe?at\_primaria/at\_primaria\_cobesf.def](https://sistemas.saude.rj.gov.br/tabnetbd/dhx.exe?at_primaria/at_primaria_cobesf.def)
+   
 * **Financiamento da Atenção Primária à Saúde (APS) - Outras Ações Estratégicas**
   [https://sistemas.saude.rj.gov.br/tabnetbd/dhx.exe?at\_primaria/financ\_aps\_outras\_acoes.def](https://sistemas.saude.rj.gov.br/tabnetbd/dhx.exe?at_primaria/financ_aps_outras_acoes.def)
 
